@@ -1,0 +1,25 @@
+p {
+  color: red;
+}
+
+#pierwszy {
+  color: blue;
+}
+
+#drugi {
+  color: blueviolet;
+}
+
+.slowo {
+  text-decoration: underline;
+}
+
+.slowo.nazwisko {
+  font-weight: bold;
+}
+
+#rodzic {
+  position: absolute;
+  left: 15px;
+  top: 60px;
+}
